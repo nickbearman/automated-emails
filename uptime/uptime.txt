@@ -1,0 +1,7 @@
+++++ The system has been started ++++
+++++ The system has been started ++++
+ 19:51:01 up 1 day,  2:08,  6 users,  load average: 0.08, 0.02, 0.02
+++++ The system has been started ++++
+ 19:51:16 up 1 day,  2:09,  6 users,  load average: 0.14, 0.03, 0.03
+++++ The system has been started ++++
+ 19:51:48 up 1 day,  2:09,  6 users,  load average: 0.08, 0.03, 0.02
